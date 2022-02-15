@@ -1,4 +1,4 @@
-# youtube_api_songs
+# Real Time Youtube Channel Subscribers Count
 
 A new Flutter project.
 
